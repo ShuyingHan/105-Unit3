@@ -10,7 +10,7 @@ The repository contains three python notebook:
 These matereial have been adapted from the excellent lessons created by staff at teh [Reasearch Hub](https://library.unc.edu/hub/) of the UNC's Davis Library.
 
 README guide 
-1. where the data come from 
+1. Provenance where the data come from 
 2. Purpose / what/cho is the daa for
 3. Potential (why created/the auidence )
 
