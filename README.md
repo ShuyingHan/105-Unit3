@@ -1,8 +1,8 @@
 # 105-Unit3
 
-This is a repository containing intructional material and sample dataset for Prof. Gotzler's Fall ENGL105.004 at the University of Carolina, Chapel Hill.
+This is a repository containing python notebook for data compilation instructions and sample dataset for Prof. Gotzler's Fall ENGL105.004 at the University of Carolina, Chapel Hill.
 
-The repository contains three python notebook:
+The repository contains on python notebook and :
 1. module on covering basic topic in coding with Python 3
 2. module on getting started with the Pandas package
 3. module on using the Pandas package for data analysis 
