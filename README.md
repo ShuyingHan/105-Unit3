@@ -1,6 +1,6 @@
 # 105-Unit3
 
-This is a repository containing a python notebook for data compilation instructions and sample datasets for Prof. Gotzler's Fall ENGL105.004 at the University of Carolina, Chapel Hill.  
+This is a repository containing a python notebook for data compilation instructions and sample datasets for scientist and data analyst.
 
 The material in the respository offered a detailed intruction and a sample for scientists to generate target subset csv file from large data frame that would contribute to future research. 
 
