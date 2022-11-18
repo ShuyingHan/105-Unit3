@@ -15,3 +15,10 @@ The raw dataset public_health_dataset.csv is provided by [World Health Organizat
 ## DATA VISUALIZATION
 ![png](https://user-images.githubusercontent.com/118194391/202764976-51d0aa30-db3d-4d91-856d-7edd94e48245.png)
 [Please check this link for responsive image](https://datawrapper.dwcdn.net/m6DZe/1/)
+
+<div>
+<iframe title="" aria-label="Map" id="datawrapper-chart-m6DZe" src="https://datawrapper.dwcdn.net/m6DZe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307" data-external="1"></iframe>
+
+<script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+</div>
