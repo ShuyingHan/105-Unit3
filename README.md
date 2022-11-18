@@ -1,8 +1,8 @@
 # 105-Unit3
 
-This is a repository containing a python notebook for data compilation instructions and sample datasets for scientist and data analyst.
+This is a repository containing a python notebook for data compilation instructions and sample datasets for scientists and data analysts.
 
-The material in the respository offered a detailed intruction and a sample for scientists to generate target subset csv file from large data frame that would contribute to future research. 
+The material in the repository offered a detailed intruction and a sample for scientists to generate target subset csv file from large data frame that would contribute to future research. 
 
 The repository contains one python notebook and two dataset:
 - The file in Python_notebook directory containes [instruction code](/Python_notebook/Feeder3.1.ipynb) to conduct basis data analysis. -
