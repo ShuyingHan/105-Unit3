@@ -10,4 +10,6 @@ The repository contains one python notebook and two dataset:
 
 The raw dataset public_health_dataset.csv is provided by [World Health Organization](https://www.who.int/data/gho)
 
-![Alt Image text](https://datawrapper.dwcdn.net/m6DZe/1/ "Optional Title")
+<div>
+    <iframe src="https://datawrapper.dwcdn.net/m6DZe/1/" style="width: 100%; height: 500px;">
+</div>
