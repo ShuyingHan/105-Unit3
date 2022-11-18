@@ -9,3 +9,22 @@ The repository contains one python notebook and two dataset:
 - The data directory contain one raw dataset: [public_health_dataset.csv](/data/public_health_dataset.csv) and the corresponding filtered [subset.csv](/data/subset.csv) using the data analysis code provided by the python notebook.
 
 The raw dataset public_health_dataset.csv is provided by [World Health Organization](https://www.who.int/data/gho)
+
+<!DOCTYPE HTML>
+<html lang="en">
+  
+<header>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, 
+       initial-scale-1, shrink-to-fit=no">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@1,700&display=swap" rel="stylesheet">
+</header>
+<body>
+
+<iframe title="" aria-label="Map" id="datawrapper-chart-m6DZe" src="https://datawrapper.dwcdn.net/m6DZe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+</body>
+</html>
