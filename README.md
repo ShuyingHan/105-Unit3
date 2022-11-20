@@ -13,6 +13,7 @@ The raw dataset public_health_dataset.csv is provided by [World Health Organizat
 
 
 ## DATA VISUALIZATION 
+Using the data from the subset.csv The image below highlights countries with life expectancy over 73.3 and listed it s
 ![MNDUL-countries-and-life-expectancy-](https://user-images.githubusercontent.com/118194391/202930030-b80c5352-1b22-40cf-8c0a-681d045ff23b.png)
 [Please check this link for responsive image](https://datawrapper.dwcdn.net/m6DZe/1/)
 
