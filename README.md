@@ -16,4 +16,6 @@ The raw dataset public_health_dataset.csv is provided by [World Health Organizat
 Using the data from the `subsets.csv` , we could generate the image below that highlights countries with life expectancy over 73.3 and listed its corresponding maternal mortality rate. 
 ![MNDUL-countries-and-life-expectancy-](https://user-images.githubusercontent.com/118194391/202930030-b80c5352-1b22-40cf-8c0a-681d045ff23b.png)
 [Please check this link for responsive image](https://datawrapper.dwcdn.net/m6DZe/1/)
-
+To futhere anazlyz the dataset, we could then generate a similar map that highlights the total population of the countries with life expectancy over 73.3 as additional information.
+![Wu04A-countries-and-total-population-000s-](https://user-images.githubusercontent.com/118194391/202932094-fa85ebfe-b630-4234-a5ba-505fdc27a2df.png)
+[Please check this link for responsive image](https://datawrapper.dwcdn.net/Wu04A/1/)
