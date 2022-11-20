@@ -12,7 +12,7 @@ The raw dataset public_health_dataset.csv is provided by [World Health Organizat
 
 
 
-## DATA VISUALIZATION 
-![png](https://user-images.githubusercontent.com/118194391/202766858-9c90ae15-691c-46f0-beb3-4086d46c4afa.png)
-[Please check on the link to view the responsive version](https://datawrapper.dwcdn.net/m6DZe/1/)
+## DATA VISUALIZATION (not final version yet)
+![MNDUL-countries-and-life-expectancy-](https://user-images.githubusercontent.com/118194391/202930030-b80c5352-1b22-40cf-8c0a-681d045ff23b.png)
+[Please check this link for responsive image](https://datawrapper.dwcdn.net/m6DZe/1/)
 
