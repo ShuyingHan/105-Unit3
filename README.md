@@ -9,12 +9,11 @@ The repository contains one python notebook, two dataset and data visualization:
 The raw dataset  `public_health_dataset.csv` is provided by [World Health Organization](https://www.who.int/data/gho)
 
 
-## What could the data be used for? 
-The material in the repository offered a detailed intruction and a sample for scientists to generate target subset csv file from large data frame that would contribute to future research. 
+## What could the instruction and data be used for? 
+In general, the material in the repository offered a detailed intruction and an example for members in the science who wants to generate target subset csv file from large data frame that would contribute to their future research. </br>
 
-The raw dataset  `public_health_dataset.csv` is provided by [World Health Organization](https://www.who.int/data/gho)
+To be more specific, scientist in field of public health could utlized the dataset and the instruction provided to analyze the relationship between life expectancy, mathernal mortality rate and total population in a country. 
 
-This is a repository containing a python notebook for data compilation instructions and sample datasets for scientists and data analysts. </br>
 
 ## DATA VISUALIZATION 
 Using the data from the `subsets.csv` , we could generate the image below that highlights countries with life expectancy over 73.3 and listed its corresponding maternal mortality rate. 
