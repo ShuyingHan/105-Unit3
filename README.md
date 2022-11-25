@@ -1,7 +1,7 @@
 # 105-Unit3
 
 ## What is inculded? 
-The repository contains one python notebook, two dataset and data visualization:
+The repository contains one python notebook, two dataset and corresponding data visualization:
 - The file in Python_notebook directory containes [instruction code](/Python_notebook/instruction_code.ipynb) to conduct basis data analysis. 
 - The data directory contain one raw dataset: [public_health_dataset.csv](/data/public_health_dataset.csv) and the corresponding filtered [subset.csv](/data/subset.csv) using the data analysis code provided by the python notebook.
 
