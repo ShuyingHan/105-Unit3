@@ -22,3 +22,13 @@ Using the data from the `subsets.csv` , we could generate the image below that h
 To futhere anazlyz the dataset, we could then generate a similar map that highlights the total population of the countries with life expectancy over 73.3 as additional information.
 ![Wu04A-countries-and-total-population-000s-](https://user-images.githubusercontent.com/118194391/202932094-fa85ebfe-b630-4234-a5ba-505fdc27a2df.png)
 [Please check this link for responsive image](https://datawrapper.dwcdn.net/Wu04A/1/)
+
+## Licensing
+In general, the data and code instruction is open to the public though may be especially useful to the scientific community for research with massive dataset.</br>
+
+## Acknowledgements
+The raw data set is provided by [World Health Organization](https://www.who.int/data/gho) and this repository is created as the project for Prof. Gotzler's Fall 2022 ENGL-105 section at the Univeristy of Carolina, Chapel Hill.
+
+
+
+
