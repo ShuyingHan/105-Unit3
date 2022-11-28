@@ -12,7 +12,7 @@ The raw dataset  `public_health_dataset.csv` is provided by [World Health Organi
 ## What could the instruction and data be used for? 
 In general, the material in the repository offered a detailed intruction and an example for members in the science who wants to generate target subset csv file from large data frame that would contribute to their future research. </br>
 
-To be more specific, in the example provided in the repository, scientist in field of public health could utlized the dataset and the instruction provided to analyze the relationship between life expectancy, mathernal mortality rate and total population in a country. As the growing population around the globe has become a heated topic, being abble to narrow down certain outstanding countries would offer a starting point for related research focusing on the factors of the rapid growing population. 
+To be more specific, in the example provided in the repository, scientist in field of public health could utlized the dataset and the instruction provided to analyze the relationship between life expectancy, mathernal mortality rate and total population in a country. As the growing population around the globe has become a heated topic, being able to narrow down certain outstanding countries would offer a starting point for related research focusing on the factors of the rapid growing population. 
 
 
 ## Data visualization
