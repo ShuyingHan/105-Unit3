@@ -15,7 +15,7 @@ In general, the material in the repository offered a detailed intruction and an 
 To be more specific, scientist in field of public health could utlized the dataset and the instruction provided to analyze the relationship between life expectancy, mathernal mortality rate and total population in a country. 
 
 
-## DATA VISUALIZATION 
+## Data visualization
 Using the data from the `subsets.csv` , we could generate the image below that highlights countries with life expectancy over 73.3 and listed its corresponding maternal mortality rate. 
 ![MNDUL-countries-and-life-expectancy- (1)](https://user-images.githubusercontent.com/118194391/202932336-75fa015f-6ea1-4b43-b133-71d4ba0eff3b.png)
 [Please check this link for responsive image](https://datawrapper.dwcdn.net/MNDUL/3/). </br>
